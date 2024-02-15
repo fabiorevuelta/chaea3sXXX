@@ -42,11 +42,10 @@ CHAEA3S is can be downloaded from
 
 https://github.com/fabiorevuelta/chaea3s
 
-CHAEA3S is provided in three different formats:
+CHAEA3S is provided in two different formats:
 
 - chaea3s.py script, to be run in a terminal.
 - chaea.ipynb notebook to be run on a web broser with Jupyter.
-- chaea3s.exe, to be run under Windows.
 
 In the previous github link, you can also find the Excel
 document that the students must fulfill. 
