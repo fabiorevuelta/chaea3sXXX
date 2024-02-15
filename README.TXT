@@ -23,6 +23,7 @@ from any liability, damages, or losses resulting from its use.
 Additionally, when sharing or distributing it,
 we kindly request that acknowledge Fabio Revuelta
 as the author of this software, and you cite the reference 
+(where further information can be found)
 
 J. Ablanque, V. Gabaldon, P. Almendros, J. C. Losada,
 R. M. Benito,  and F. Revuelta
@@ -47,13 +48,8 @@ CHAEA3S is provided in three different formats:
 - chaea.ipynb notebook to be run on a web broser with Jupyter.
 - chaea3s.exe, to be run under Windows.
 
-Further information on the use of CHAEA3S can be found in the refence:
-
-J. Ablanque, V. Gabaldon, P. Almendros, J. C. Losada,
-R. M. Benito,  and F. Revuelta
-"CHAEA3S: A software for the automated principal-component analysis
-of CHAEA learning styles"
-Journal of Science Education and Technology (2024)
+In the previous github link, you can also find the Excel
+document that the students must fulfill. 
 
 In any case, in order to use CHAEA3S package,
 the students must first  fulfill the CHAEA questionnaires.
@@ -296,4 +292,3 @@ or
    >> pyinstaller --onefile chaea3s.py
 
 The executable is found in the dir directory.
-
